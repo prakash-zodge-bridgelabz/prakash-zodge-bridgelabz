@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **prakash.zodge.bridgelabz@gmail.com**
-- 📫 Another GitHub profile **[prakash.zodge.bridgelabz@gmail.com](https://github.com/prakash999zodge)**
+- 📫 Another GitHub profile **[prakash999zodge](https://github.com/prakash999zodge)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
